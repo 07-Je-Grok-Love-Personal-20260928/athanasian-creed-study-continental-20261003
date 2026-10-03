@@ -1,0 +1,12 @@
+{
+  "name": "athanasian-creed-study-continental-20261003",
+  "version": "1.0.0",
+  "private": true,
+  "description": "欧陆改革宗亚他那修信经研读：Quicunque vult，三位与二性",
+  "scripts": {
+    "start": "npx --yes serve -l 3456 .",
+    "preview": "npx --yes serve -l 3456 ."
+  },
+  "keywords": ["athanasian-creed", "quicunque", "reformed", "zh-CN", "static", "continental"],
+  "homepage": "https://athanasian-creed-study-continental-20261003.surge.sh/"
+}
